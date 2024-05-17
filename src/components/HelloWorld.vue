@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
-  
+
   <p>Deployed using github actions</p>
 
   <div class="card">
